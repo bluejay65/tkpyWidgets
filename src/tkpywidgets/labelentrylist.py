@@ -1,6 +1,5 @@
 import tkinter as tk
-from tkinter import ttk
-import tkwidgets as tkw
+import tkpywidgets as tkw
 
 
 

@@ -1,5 +1,5 @@
 import tkinter as tk
-import tkwidgets as tkw
+import tkpywidgets as tkw
 
 
 # A list of checkbuttons that can be selected and deselected by code or user

@@ -1,5 +1,5 @@
 import tkinter as tk
-import tkwidgets as tkw
+import tkpywidgets as tkw
 
 
 # A frame with two widgets, a label and an entry
